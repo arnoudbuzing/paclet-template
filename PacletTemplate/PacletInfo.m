@@ -5,8 +5,9 @@ Paclet[
   Publisher -> "Wolfram Research",
   Version -> "0.0.1",
   MathematicaVersion -> "11.2+",
+  Loading -> Automatic,
   Extensions -> {
    { "Documentation", Language -> "English"},
-   { "Application", Context -> "PacletTemplate`" }
+   { "Kernel", Symbols -> {}, Context -> {"PacletTemplate`"} }
   }
 ]
